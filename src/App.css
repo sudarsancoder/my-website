@@ -1,0 +1,39 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+/* General styling for the App */
+
+@media (max-width: 768px) {
+  
+  .mobile{
+    
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 20% auto;
+    
+  }
+
+  #exclamation{
+    color:#f64c08;
+    font-size: 1.2rem;
+    transform: translate(-10%,20%) ;
+    
+  }
+
+  .warning {
+    
+    color: white;
+    text-align: center;
+    visibility: visible !important;
+    font-size: 1.2rem;
+   
+  }
+
+  #desktop{
+    transform: translate(-10%,20%) ;
+  }
+
+}
