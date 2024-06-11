@@ -14,7 +14,7 @@ const Contact = () => {
           Email:
           <span>
             {" "}
-            <a href = "mailto:sudarsanmurali10@gmail.com" target='_blank'>sudarsanmurali10@gmail.com</a>
+            <a href = "mailto:sudarsanmurali10@gmail.com" target='_blank' >sudarsanmurali10@gmail.com</a>
           </span>
         </p>
         <p>

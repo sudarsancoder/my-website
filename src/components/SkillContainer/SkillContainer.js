@@ -1,6 +1,6 @@
 import React from 'react'
 import { Element } from 'react-scroll';
-import img from '../../assets/lapt.jpeg';
+// import img from '../../assets/lapt.jpeg';
 import Workphoto from '../../assets/Workphoto.jpeg'
 import LinearProgress from "@material-ui/core/LinearProgress";
 import "./SkillContainer.css";

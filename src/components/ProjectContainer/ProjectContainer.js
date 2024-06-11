@@ -3,7 +3,7 @@ import { Element } from 'react-scroll';
 import Project from '../Project/Project.js';
 import "./ProjectContainer.css";
 import intern from '../../assets/intern.jpg'
-import internproof from '../../assets/internproof.pdf';
+// import internproof from '../../assets/internproof.pdf';
 import Booking from "../../assets/Booking.png"
 import Eshop from "../../assets/Eshop.png"
 import Course from "../../assets/Course.png"
